@@ -1,4 +1,4 @@
-# Assignment 3 – Custom VLM Design for Industrial Quality Inspection
+# Custom VLM Design for Industrial Quality Inspection
 
 ## Overview
 This assignment focuses on designing a custom Vision-Language Model (VLM) for PCB quality inspection.  
